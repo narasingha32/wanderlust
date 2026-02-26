@@ -118,7 +118,7 @@ _I'd love for you to make the most of this project - it's all about learning, he
     
     ```bash
     
-    docker-compose up
+    docker compose up
     ```
     This command will build the Docker images and start the containers for the backend and frontend, enabling you to access the Wanderlust application.
 
